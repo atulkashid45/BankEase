@@ -50,10 +50,3 @@ Upon running the program, the system presents options based on the user’s role
 - **Bank Staff (Admin)**:
   1. Login with admin credentials.
   2. Manage customer accounts, approve account closures, view transaction reports, and more.
-
-### How to Run the System
-
-1. Ensure you have **Java** and **MySQL** installed.
-2. Clone the repository from GitHub:  
-   ```bash
-   git clone https://github.com/your-username/BankEase.git
